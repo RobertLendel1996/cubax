@@ -1431,7 +1431,7 @@ body::after {
 
 .item-walls__line_1 {
   width: 11.25rem;
-  top: 40.8%;
+  top: 27.8%;
   left: 37.5%;
   -webkit-transform: rotate(15deg);
       -ms-transform: rotate(15deg);
@@ -1440,7 +1440,7 @@ body::after {
 
 .item-walls__line_2 {
   width: 13.75rem;
-  top: 46%;
+  top: 36%;
   left: 34.7%;
   -webkit-transform: rotate(-9deg);
       -ms-transform: rotate(-9deg);
